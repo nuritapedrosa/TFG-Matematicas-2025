@@ -1,12 +1,7 @@
 # TFG-Matematicas-2025
-MILP-based optimization of urban metro networks: full implementation of a mathematical model for designing efficient subway layouts under real-world constraints.
-
-
----------------------------------------------------------------------------------------------------
-
 # 🏙️ MILP-Based Optimization of Urban Metro Networks
 
-This repository contains the full implementation of a mathematical model for optimizing the layout of metro networks in urban environments using Mixed Integer Linear Programming (MILP).
+This repository contains the full implementation of a mathematical model for designing efficient subway layouts under real-world constraints,  using Mixed Integer Linear Programming (MILP).
 
 ## 📘 Overview
 
