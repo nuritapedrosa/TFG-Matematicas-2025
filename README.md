@@ -17,6 +17,7 @@ The methodology is designed to be adaptable to different urban layouts, and the 
 ## 📂 Contents
 
 - `model.ipynb` — Main Jupyter Notebook with full code and commentary.
+- `requirements.txt` — Lista de dependencias necesarias para ejecutar el modelo y el entorno de desarrollo.
    
 ## 🔗 Additional Notes
 
